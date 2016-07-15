@@ -1,0 +1,19 @@
+{
+  "name": "lesson3",
+  "version": "1.0.0",
+  "description": "Learning Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SykRik/Third-Prj.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SykRik/Third-Prj/issues"
+  },
+  "homepage": "https://github.com/SykRik/Third-Prj#readme"
+}
